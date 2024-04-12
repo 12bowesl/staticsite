@@ -1,13 +1,13 @@
 // update the information in this file with information about you/your site - this is for the search engine to read and display, but isn't shown on your site itself
 
 module.exports = {
-	title: "My Example Blog",
+	title: "Liam's amazing blog",
 	url: "https://example.com/",
-	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	language: "es",
+	description: "A tale of a task",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
+		name: "Liam",
+		email: "theMegaMind99@outlook.com",
 		url: "https://example.com/about-me/"
 	}
 }
