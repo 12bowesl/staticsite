@@ -6,11 +6,11 @@
 
 /* Theme colors */
 :root {
-	--color-one-20: #e0e0e0;
+	--color-one-20: #C0C0C0;
 	--color-two-50: #C0C0C0;
-	--color-three-90: #333;
+	--color-three-90: #C0C0C0;
 
-	--background-color: #FDFEF3;
+	--background-color: #C0C0C0;
 
 	--text-color: var(--color-three-90);
 	--text-color-link: #082840;
