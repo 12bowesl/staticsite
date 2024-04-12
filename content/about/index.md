@@ -5,6 +5,6 @@ eleventyNavigation:
   key: About Me
   order: 3
 ---
-# About Me
+# About myself
 
-I am a person that writes stuff.
+
